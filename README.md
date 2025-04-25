@@ -205,9 +205,11 @@ void loop() {
 
 **Christoffer dos Santos Alves**
 
-## 📄 Link para o projeto
+## 📄 Link para o projeto e vídeo:
 
 (https://wokwi.com/projects/428079835404257281)
+
+https://youtu.be/2vjYUb9TBU8?si=jzAGpWAQh9th5RaZ
 
 ---
 ![image](https://github.com/user-attachments/assets/66efdd3a-e6b5-4e5b-8a58-ba90faeff775)
